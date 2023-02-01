@@ -43,7 +43,7 @@ Y8b.      Y8bd8P  888 Y88b 888 888  888
 
 ## plan
 
-1. basic telegram boy with python/poetry
+1. basic telegram bot with python/poetry
 2. dockerize
 3. deploy
 4. implement habits/records with sql
