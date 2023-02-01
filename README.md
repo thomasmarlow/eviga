@@ -13,7 +13,7 @@ Y8b.      Y8bd8P  888 Y88b 888 888  888
 
 ```
 
-Electronic VIGilant Assistant
+***e***lectronic ***vig***ilant ***a***ssistant
 
 ## entities
 
