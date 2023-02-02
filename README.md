@@ -15,41 +15,15 @@ Y8b.      Y8bd8P  888 Y88b 888 888  888
 
 ***e***lectronic ***vig***ilant ***a***ssistant
 
-## entities
-
-1. habits
-2. records
-3. reminders
-4. tasks
-5. users
-
-## stack
-
-### stage 1
-
-- python/poetry
-- telegram api
-- docker
-
-### stage 2
-
-- sql
-- aiohttp
-
-### stage n?
-
-- kubernetes
-- testing+ci/cd
-
 ## plan
 
-1. basic telegram bot with python/poetry
-2. dockerize
-3. deploy
-4. implement habits/records with sql
-5. implement reminders
-6. implement tasks
-7. implement users
-8. big time refactor
-9. ???
+- [x] basic telegram bot with python/poetry
+- [ ] dockerize
+- [ ] deploy
+- [ ] implement habits/records with sql
+- [ ] implement reminders
+- [ ] implement tasks
+- [ ] implement users
+- [ ] big time refactor
+- [ ] ???
 
