@@ -4,7 +4,15 @@ run-no-docker:
 
 .PHONY: run
 run:
-	docker run thomasmarlow/eviga
+	docker run -d --name eviga thomasmarlow/eviga
+
+.PHONY: logs
+logs:
+	docker logs eviga -f
+
+.PHONY: rm
+rm:
+	docker rm -f eviga
 
 .PHONY: build
 build:
