@@ -18,8 +18,8 @@ Y8b.      Y8bd8P  888 Y88b 888 888  888
 ## plan
 
 - [x] basic telegram bot with python/poetry
-- [ ] dockerize
-- [ ] deploy
+- [x] dockerize
+- [x] deploy
 - [ ] implement habits/records with sql
 - [ ] implement reminders
 - [ ] implement tasks
